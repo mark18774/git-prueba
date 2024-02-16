@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esta es una ultima prueba.
+=======
+Esta es una prueba de archivo05.txt
+>>>>>>> fcaf8971669c72c60dca1ad91714de6968d13932
