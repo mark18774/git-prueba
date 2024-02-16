@@ -1,1 +1,5 @@
 Prueba de archivo en la rama 2.
+
+Una nueva prueba con las nuevas extensiones.
+
+Cambio en la nueva rama.
