@@ -1,1 +1,3 @@
 Este es el primer archivo y el primer cambio.
+
+Este es un cambio pero posicionado en la rama 2.
